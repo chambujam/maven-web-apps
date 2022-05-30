@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MylandmarkTech.com- Home Page</title>
+<title>STEPHEN.COM- Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 </head>
@@ -13,7 +13,7 @@
 <h2 align="center"> Welcome TO JOINIT SOLUTIONS.
 	Special testimony and thanksgiving session coming up on Sunday June 27, 2022
 	JOINIT SOLUTIONS is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
-	We offer interview preparations and job assitance.
+	We offer interview preparations and job assitance.Thanks Isaac.Jesus is great, never fails!
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
