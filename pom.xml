@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>paypal Releases Nexus Repository</name>
-	      <url>http://54.210.237.195:8081/repository/fan-release/</url>
+	      <url>http://54.210.237.195:8081/repository/paypal-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>paypal Nexus Repository </name>
-	      <url>http://54.210.237.195:8081/repository/fan-snapshot/</url>
+	      <url>http://54.210.237.195:8081/repository/paypal-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
