@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>NGONGSA- Home Page</title>
+<title>JAM- Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 </head>
