@@ -4,13 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>FANGYEN- Home Page</title>
+<title>NGONGSA- Home Page</title>
 <link href="images/log4.png" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">JOINIT SOLUTIONS</h1>
 <h2 align="center"> Welcome TO JOINIT SOLUTIONS.
+	THIS IS REALLY GREAT
 	Special testimony and thanksgiving session coming up on Sunday June 27, 2022
 	JOINIT SOLUTIONS is a an ideal online training  platform for DevOps, Plaform and Cloud Engineers. 
 	We offer interview preparations and job assitance.Thanks Isaac.Jesus is great, never fails! THANKSSS
